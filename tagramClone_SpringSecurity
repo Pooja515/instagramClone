@@ -1,0 +1,42 @@
+[33mcommit d0d60ad9425e73efe8c0b5402fdcd9928c29a779[m[33m ([m[1;36mHEAD -> [m[1;32mlogin-registration-feature[m[33m)[m
+Author: Pooja515 <pujuu72103@gmail.com>
+Date:   Tue Oct 10 12:26:15 2023 +0530
+
+     Login and Registration System
+
+[33mcommit 0e3bbe4efbb949b78d8d81336f7523511a5aab28[m
+Merge: 02881ab b5b559d
+Author: Pooja515 <pujuu72103@gmail.com>
+Date:   Tue Oct 10 11:38:35 2023 +0530
+
+    Merge branch 'main' of https://github.com/Pooja515/instagramClone into login-registration-feature
+
+[33mcommit b5b559dfd93dda17315736d2c0ae2c811f030934[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: POOJA GAUTAM <58748949+Pooja515@users.noreply.github.com>
+Date:   Tue Aug 8 17:27:28 2023 +0530
+
+    Update README.md
+
+[33mcommit 02881ab896628ee5152138e06a880d35dce6c096[m[33m ([m[1;31morigin/ADD_PostformAndSearchUi[m[33m, [m[1;32mADD_PostformAndSearchUi[m[33m)[m
+Author: Pooja515 <pujuu72103@gmail.com>
+Date:   Sun Jun 11 19:41:18 2023 +0530
+
+    My current changes added to postform and search Ui section
+
+[33mcommit 8be7cfe151b3324bb2eb868c814508af5217aaba[m[33m ([m[1;31morigin/SectionSidebarAndProfileCompleted[m[33m, [m[1;32mSectionSidebarAndProfileCompleted[m[33m, [m[1;32mPostFormAndSearchUi[m[33m)[m
+Author: Pooja515 <pujuu72103@gmail.com>
+Date:   Thu Jun 1 19:22:37 2023 +0530
+
+    Your commit message
+
+[33mcommit 007869cd0beeaa4826ee3522fd3beb263ee81911[m[33m ([m[1;31morigin/SidebarProfileSectionCompleted[m[33m, [m[1;32mmain[m[33m)[m
+Author: Pooja515 <pujuu72103@gmail.com>
+Date:   Thu May 11 08:24:40 2023 +0530
+
+    first commit
+
+[33mcommit 70467ccb546c178912405b0caf1d20de2af1f02e[m
+Author: Pooja515 <pujuu72103@gmail.com>
+Date:   Sun Apr 16 12:26:44 2023 +0530
+
+    Initialize project using Create React App
